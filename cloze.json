@@ -1,0 +1,40 @@
+{ "cloze": [
+
+	{
+		"text": "DNA stands for deoxyribonucleic acid ",
+		"cloze":  "deoxyribonucleic acid"
+	},
+
+	{
+		"text": "The mitochondria is the powerhouse of the cell",
+		"cloze":  "mitochondria"
+	},
+
+	{
+		"text": "The basic building blocks of matter are called atom ",
+		"cloze":  "atom"
+	},
+
+	{
+		"text": "Photosynthesis is the process that converts energy from the sun to chemical energy",
+		"cloze":  "Photosynthesis"
+	},
+
+	{
+		"text": "The nucleus houses DNA in a cell ",
+		"cloze":  "nucleus"
+	},
+
+	{
+		"text": "Humans are part of the Homo Sapien genus and species",
+		"cloze":  "Homo Sapien"
+	},
+
+	{
+		"text": "Skin is the largest organ of the body",
+		"cloze":  "skin"
+	}
+
+]
+
+}

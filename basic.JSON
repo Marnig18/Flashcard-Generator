@@ -1,0 +1,23 @@
+{ "basic": [
+
+			{"front": "What does DNA stand for?", 
+				"back": "Deoxyribonucleic acid"},
+
+			{"front": "Which organelle is the powerhouse of the cell?", 
+				"back": "mitochondria"},
+
+			{"front": "What are the basic building blocks of matter?", 
+				"back": "atoms"},
+
+			{"front": "What is the process in plant that converts energy from the sun into chemical energy?",
+				"back": "photosynthesis"},
+
+			{"front": "Where is DNA located within the cell?", 
+				"back": "nucleus"},
+
+			{"front": "What is the genus and species of humans?", 
+				"back": "Homo Sapien"},
+
+			{"front": "What is the largest organ of the body?", 
+				"back": "skin"}
+	]}
